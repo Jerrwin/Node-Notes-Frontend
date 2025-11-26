@@ -9,7 +9,8 @@ Perfect lightweight UI for learning how to connect a frontend to a REST API.
 
 ## 🔗 Backend Repository
 
-Your backend Node.js API is available here:
+Backend repo: 
+
 👉 https://github.com/Jerrwin/Node-Notes-API
 
 ---
@@ -17,8 +18,9 @@ Your backend Node.js API is available here:
 ## ✨ Features
 - Add new notes
 - View all notes
+- Update notes
 - Delete notes
-- Mobile-friendly UI
+- Responsive UI
 - Clean and minimal interface
 - Connects directly to backend API endpoints
 
@@ -63,4 +65,3 @@ Your backend Node.js API is available here:
 
 Feel free to open issues or submit pull requests.
 This project is beginner-friendly and ideal for practicing API integration.
-
